@@ -75,8 +75,6 @@ Steps:
 
 ---
 
----
-
 ## 🛠️ Technologies Used
 
 - Platform: Google Colab  
