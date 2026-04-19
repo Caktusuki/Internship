@@ -1,8 +1,4 @@
-Perfect — now that your **`Preview/` folder is ready and files are committed**, here is your **final clean README.md (100% working with your folder)** 👇
 
----
-
-````md
 # 📊 Employee Burnout Prediction using Linear Regression
 
 ## 🔍 Overview
