@@ -75,21 +75,6 @@ Steps:
 
 ---
 
-## 🔍 Predictions
-
-### 📋 Actual vs Predicted
-![Prediction Table](Preview/prediction_table.png)
-
----
-
-### 📊 Visualization
-![Bar Chart](Preview/bar_chart.png)
-
----
-
-## 💾 Model Saving
-![Model Saved](Preview/model_saved.png)
-
 ---
 
 ## 🛠️ Technologies Used
